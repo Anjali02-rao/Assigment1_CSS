@@ -1,0 +1,17 @@
+p {
+  color: brown;
+  background-color: rgb(246, 246, 95);
+  font-size: 1em;
+  font-style: italic;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#cool-heading {
+  color: rgb(68, 5, 214);
+}
+
+.it-is-cooler-heading {
+  color: orange;
+  background-color: rgb(102, 224, 183);
+}
